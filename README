@@ -1,5 +1,11 @@
 Copyright Adam Van Aken
 
-This is a demo Textbox application made with OpenGL (immediate mode) and GLUT. 
+This is a demo Textbox application made with OpenGL (immediate mode) and GLUT. You type in the bottom box, and <return> will send the text to the top box. Supports wrapping and horizontal line displacement. 
 
-It was originally made as a proof-of-concept for a class, so the next step is to contain all of the Textbox functionality into a separate lib.
+TODO:
+* Fix drawing on resize
+* Move functionality to separate library
+* Add scrollbars
+* Enable select/deselect boxes
+
+It was originally made as a proof-of-concept for a class, so the next step is to contain all of the Textbox functionality into a separate library.
