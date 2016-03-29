@@ -1,1 +1,5 @@
 Copyright Adam Van Aken
+
+This is a demo Textbox application made with OpenGL (immediate mode) and GLUT. 
+
+It was originally made as a proof-of-concept for a class, so the next step is to contain all of the Textbox functionality into a separate lib.
