@@ -7,5 +7,6 @@ TODO:
 * Move functionality to separate library
 * Add scrollbars
 * Enable select/deselect boxes
+* Change character wrap to soft-wrap
 
 It was originally made as a proof-of-concept for a class, so the next step is to contain all of the Textbox functionality into a separate library.
